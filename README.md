@@ -1,8 +1,9 @@
-### Hi there 👋
+
 
 <!--
 **manh21/manh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img width="46.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manh21&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&layout=compact" /><img width="53.8%" src="https://github-readme-stats.vercel.app/api?username=manh21&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515" />
